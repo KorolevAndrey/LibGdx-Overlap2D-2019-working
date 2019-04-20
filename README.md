@@ -30,7 +30,4 @@ run: gradlew run
 Result 20/04/2019:
 Timespent: 0.5 day
 
-
-[img]
-sdbasdbad.jpg
-[/img]
+![Alt text](sdbasdbad.jpg?raw=true "screen")
