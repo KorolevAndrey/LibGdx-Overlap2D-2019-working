@@ -22,7 +22,7 @@ go to C:\test
 run: gradlew idea
 
 # 5)
-Open ipr file in intelliJ Idea
+Open ipr file from intelliJ Idea
 
 # 6)
 Build and run from intelliJ Idea 
@@ -33,7 +33,7 @@ run: gradlew build
 run: gradlew run
 
 # 7)
-Watch to make game and edit scene in Overlap2d
+Watch videos to make game and edit scene in Overlap2d
 https://www.youtube.com/watch?v=bhvHm2sM0qo
 
 # 8)
@@ -41,6 +41,7 @@ Use Spine animation editor for spine animation
 
 
 Result 20/04/2019:
+
 Timespent: 0.5 day
 
 ![Alt text](sdbasdbad.jpg?raw=true "screen")
