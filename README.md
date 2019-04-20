@@ -15,6 +15,7 @@ For ex. C:\test
 
 # 3)
 Download and install intelliJ Idea Community edition
++Jdk 1.8
 
 # 4)
 go to C:\test
