@@ -26,6 +26,13 @@ or
 run: gradlew build
 run: gradlew run
 
+# 7)
+Watch to make game and edit scene in Overlap2d
+https://www.youtube.com/watch?v=bhvHm2sM0qo
+
+# 8)
+Use Spine animation editor for spine animation
+
 
 Result 20/04/2019:
 Timespent: 0.5 day
