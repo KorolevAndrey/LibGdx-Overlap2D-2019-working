@@ -1,0 +1,398 @@
+
+pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrack
+  rotate: false
+  xy: 516, 438
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+cabinNight
+  rotate: false
+  xy: 516, 272
+  size: 225, 164
+  orig: 225, 164
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 924, 673
+  size: 158, 116
+  orig: 158, 116
+  offset: 0, 0
+  index: -1
+ceiling-01
+  rotate: false
+  xy: 516, 1727
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+ceiling-lamp-wire-01
+  rotate: false
+  xy: 783, 519
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ceilinglamp-01
+  rotate: false
+  xy: 768, 389
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cloud1Night
+  rotate: false
+  xy: 799, 1097
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+cloud2Night
+  rotate: false
+  xy: 891, 1666
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+collision
+  rotate: false
+  xy: 924, 477
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+column-01
+  rotate: false
+  xy: 2, 1726
+  size: 512, 320
+  orig: 512, 320
+  offset: 0, 0
+  index: -1
+column-02
+  rotate: false
+  xy: 2, 2
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+column-03
+  rotate: false
+  xy: 2, 1083
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+concrete-01
+  rotate: false
+  xy: 2, 953
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+concrete-02
+  rotate: false
+  xy: 2, 823
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+concrete-03
+  rotate: false
+  xy: 2, 693
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+crate-01
+  rotate: false
+  xy: 697, 1365
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+crate-02
+  rotate: false
+  xy: 1613, 1630
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crate-3
+  rotate: false
+  xy: 1743, 1630
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+edge-left-01
+  rotate: false
+  xy: 990, 477
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fill
+  rotate: false
+  xy: 1056, 485
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 516, 590
+  size: 265, 252
+  orig: 265, 252
+  offset: 0, 0
+  index: -1
+fusebox-01
+  rotate: false
+  xy: 516, 32
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 986, 1683
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+goldenSheep
+  rotate: false
+  xy: 825, 321
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+ground-01
+  rotate: false
+  xy: 2, 563
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+groundGrass
+  rotate: false
+  xy: 516, 1623
+  size: 373, 102
+  orig: 373, 102
+  offset: 0, 0
+  index: -1
+heli
+  rotate: false
+  xy: 516, 162
+  size: 227, 108
+  orig: 227, 108
+  offset: 0, 0
+  index: -1
+hill1
+  rotate: false
+  xy: 789, 791
+  size: 305, 97
+  orig: 305, 97
+  offset: 0, 0
+  index: -1
+hill1Night
+  rotate: false
+  xy: 789, 890
+  size: 308, 99
+  orig: 308, 99
+  offset: 0, 0
+  index: -1
+hill2Night
+  rotate: false
+  xy: 1099, 1815
+  size: 514, 231
+  orig: 514, 231
+  offset: 0, 0
+  index: -1
+hill3Night
+  rotate: false
+  xy: 516, 1857
+  size: 581, 189
+  orig: 581, 189
+  offset: 0, 0
+  index: -1
+hill4Night
+  rotate: false
+  xy: 2, 68
+  size: 496, 103
+  orig: 496, 103
+  offset: 0, 0
+  index: -1
+hill5Night
+  rotate: false
+  xy: 1030, 1712
+  size: 462, 101
+  orig: 462, 101
+  offset: 0, 0
+  index: -1
+lamp1
+  rotate: false
+  xy: 1873, 1639
+  size: 38, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+metal-01
+  rotate: false
+  xy: 2, 433
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+metal-02
+  rotate: false
+  xy: 2, 303
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+metal-03
+  rotate: false
+  xy: 2, 173
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+miniPond
+  rotate: false
+  xy: 646, 854
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+ninja
+  rotate: false
+  xy: 1054, 551
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+rainDrop
+  rotate: false
+  xy: 768, 560
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+sheep
+  rotate: false
+  xy: 743, 317
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: false
+  xy: 1615, 1760
+  size: 299, 286
+  orig: 299, 286
+  offset: 0, 0
+  index: -1
+treeBack1
+  rotate: false
+  xy: 799, 1212
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1
+treeFront1
+  rotate: false
+  xy: 414, 1358
+  size: 281, 263
+  orig: 281, 263
+  offset: 0, 0
+  index: -1
+treeFront2
+  rotate: false
+  xy: 2, 1341
+  size: 410, 383
+  orig: 410, 383
+  offset: 0, 0
+  index: -1
+treeback2
+  rotate: false
+  xy: 1494, 1703
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+ufocrash
+  rotate: false
+  xy: 789, 991
+  size: 246, 104
+  orig: 246, 104
+  offset: 0, 0
+  index: -1
+wall-left-01
+  rotate: false
+  xy: 1916, 1534
+  size: 128, 512
+  orig: 128, 512
+  offset: 0, 0
+  index: -1
+wall-leftbottom-01
+  rotate: false
+  xy: 646, 32
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wall-right-01
+  rotate: false
+  xy: 516, 844
+  size: 128, 512
+  orig: 128, 512
+  offset: 0, 0
+  index: -1
+wall-righttop-01
+  rotate: false
+  xy: 924, 543
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+watertower
+  rotate: false
+  xy: 646, 885
+  size: 141, 234
+  orig: 141, 234
+  offset: 0, 0
+  index: -1
+windMain
+  rotate: false
+  xy: 898, 434
+  size: 24, 83
+  orig: 24, 83
+  offset: 0, 0
+  index: -1
+windRotor
+  rotate: false
+  xy: 414, 1629
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+windmillMain
+  rotate: false
+  xy: 646, 1121
+  size: 151, 235
+  orig: 151, 235
+  offset: 0, 0
+  index: -1
+windmillRotating
+  rotate: false
+  xy: 783, 649
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1

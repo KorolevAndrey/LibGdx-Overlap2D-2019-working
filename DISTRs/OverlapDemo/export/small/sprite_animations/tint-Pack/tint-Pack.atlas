@@ -1,0 +1,90 @@
+
+tint-Pack.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tint-01
+  rotate: false
+  xy: 943, 79
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tint-02
+  rotate: false
+  xy: 983, 79
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tint-03
+  rotate: false
+  xy: 943, 39
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tint-04
+  rotate: false
+  xy: 2, 2
+  size: 307, 115
+  orig: 307, 115
+  offset: 0, 0
+  index: -1
+tint-05
+  rotate: false
+  xy: 311, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-06
+  rotate: false
+  xy: 390, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-07
+  rotate: false
+  xy: 469, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-08
+  rotate: false
+  xy: 548, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-09
+  rotate: false
+  xy: 627, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-10
+  rotate: false
+  xy: 706, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-11
+  rotate: false
+  xy: 785, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tint-12
+  rotate: false
+  xy: 864, 40
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

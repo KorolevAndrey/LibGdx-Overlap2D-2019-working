@@ -1,0 +1,90 @@
+
+tint-Pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tint-01
+  rotate: false
+  xy: 776, 776
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tint-02
+  rotate: false
+  xy: 2, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tint-03
+  rotate: false
+  xy: 132, 322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tint-04
+  rotate: false
+  xy: 2, 648
+  size: 512, 192
+  orig: 512, 192
+  offset: 0, 0
+  index: -1
+tint-05
+  rotate: false
+  xy: 2, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-06
+  rotate: false
+  xy: 516, 712
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-07
+  rotate: false
+  xy: 2, 388
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-08
+  rotate: false
+  xy: 132, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-09
+  rotate: false
+  xy: 646, 712
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-10
+  rotate: false
+  xy: 2, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-11
+  rotate: false
+  xy: 132, 388
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tint-12
+  rotate: false
+  xy: 262, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+light-Pack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light-01
+  rotate: false
+  xy: 2, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+light-02
+  rotate: false
+  xy: 311, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1

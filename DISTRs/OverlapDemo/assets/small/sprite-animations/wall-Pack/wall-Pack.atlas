@@ -1,0 +1,34 @@
+
+wall-Pack.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wall-01
+  rotate: false
+  xy: 2, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+wall-02
+  rotate: false
+  xy: 311, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+wall-03
+  rotate: false
+  xy: 620, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+wall-04
+  rotate: false
+  xy: 929, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
