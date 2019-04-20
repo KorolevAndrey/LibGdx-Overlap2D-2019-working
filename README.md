@@ -3,8 +3,11 @@
 # 1)
 Overlap2d Website is down, download jar from here
 https://www.dropbox.com/s/uy6jut6m5t4hnor/overlap2d.tar.gz?dl=0
-
 version 0.1.3
+
+or
+
+from my DISTRs folder
 
 # 2)
 Download this repository and unzip to any folder
