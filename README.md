@@ -15,6 +15,7 @@ Download and install intelliJ Idea Community edition
 
 # 4)
 go to C:\test
+
 run: gradlew idea
 
 # 5)
@@ -23,7 +24,9 @@ Open ipr file in intelliJ Idea
 # 6)
 Build and run from intelliJ Idea 
 or
+
 run: gradlew build
+
 run: gradlew run
 
 # 7)
