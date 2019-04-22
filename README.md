@@ -17,6 +17,8 @@ For ex. C:\test
 Download and install intelliJ Idea Community edition
 +Jdk 1.8
 
++ set JAVA_HOME .. etc.
+
 # 4)
 go to C:\test
 
