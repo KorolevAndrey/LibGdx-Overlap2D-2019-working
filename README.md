@@ -28,6 +28,8 @@ run: gradlew idea
 Open ipr file from intelliJ Idea
 
 # 6)
+set working directory => ..\core\assets
+
 Build and run from intelliJ Idea 
 or
 
